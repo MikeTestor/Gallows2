@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallows2_GUI", "Gallows2\Gallows2_GUI.csproj", "{F9D78352-EF9A-4FA7-A8A9-9F1A4FCD6ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallows2_BL", "Gallows2_BL\Gallows2_BL.csproj", "{300539C9-075B-4E66-B2D6-59E25BBF7722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D78352-EF9A-4FA7-A8A9-9F1A4FCD6ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D78352-EF9A-4FA7-A8A9-9F1A4FCD6ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D78352-EF9A-4FA7-A8A9-9F1A4FCD6ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D78352-EF9A-4FA7-A8A9-9F1A4FCD6ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{300539C9-075B-4E66-B2D6-59E25BBF7722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300539C9-075B-4E66-B2D6-59E25BBF7722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300539C9-075B-4E66-B2D6-59E25BBF7722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300539C9-075B-4E66-B2D6-59E25BBF7722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBACDC8D-BF1D-4A0C-B4A5-288AB86C65AD}
+	EndGlobalSection
+EndGlobal

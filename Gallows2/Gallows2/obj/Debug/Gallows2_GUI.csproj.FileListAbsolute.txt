@@ -1,0 +1,12 @@
+C:\C#\C# projecten\Games\Gallows2\Gallows2\bin\Debug\Gallows2.exe.config
+C:\C#\C# projecten\Games\Gallows2\Gallows2\bin\Debug\Gallows2.exe
+C:\C#\C# projecten\Games\Gallows2\Gallows2\bin\Debug\Gallows2.pdb
+C:\C#\C# projecten\Games\Gallows2\Gallows2\bin\Debug\Gallows2_BL.dll
+C:\C#\C# projecten\Games\Gallows2\Gallows2\bin\Debug\Gallows2_BL.pdb
+C:\C#\C# projecten\Games\Gallows2\Gallows2\obj\Debug\Gallows2_GUI.csprojAssemblyReference.cache
+C:\C#\C# projecten\Games\Gallows2\Gallows2\obj\Debug\Gallows2.Form1.resources
+C:\C#\C# projecten\Games\Gallows2\Gallows2\obj\Debug\Gallows2.Properties.Resources.resources
+C:\C#\C# projecten\Games\Gallows2\Gallows2\obj\Debug\Gallows2_GUI.csproj.GenerateResource.cache
+C:\C#\C# projecten\Games\Gallows2\Gallows2\obj\Debug\Gallows2_GUI.csproj.CopyComplete
+C:\C#\C# projecten\Games\Gallows2\Gallows2\obj\Debug\Gallows2.exe
+C:\C#\C# projecten\Games\Gallows2\Gallows2\obj\Debug\Gallows2.pdb
